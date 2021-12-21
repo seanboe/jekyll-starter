@@ -1,0 +1,9 @@
+title: title
+description: description
+
+# Site build stuff
+
+# This is the limit of posts that will be displayed on the home page
+paginate: 20
+
+plugins: [jekyll-paginate]
